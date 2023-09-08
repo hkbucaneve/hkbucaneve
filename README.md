@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hkbucaneve
-- 👀 I’m interested in LaTeX, Markdown.
+- 👀 I’m interested in CSS, LaTeX, Markdown.
 - 🌱 I’m currently learning how to sync logseq between Windows and Android.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
